@@ -1,0 +1,28 @@
+{
+  "source": {
+    "hostname": "source-proxmox.example.com",
+    "port": 8006,
+    "username": "root@pam",
+    "token_name": "your_source_token_name",
+    "token_value": "your_source_token_value_here",
+    "verify_ssl": false
+  },
+  "target": {
+    "hostname": "target-proxmox.example.com",
+    "port": 8006,
+    "username": "root@pam",
+    "token_name": "your_target_token_name",
+    "token_value": "your_target_token_value_here",
+    "verify_ssl": false
+  },
+  "ssh": {
+    "username": "root",
+    "key_filename": "~/.ssh/id_rsa",
+    "port": 22
+  },
+  "storage": {
+    "backup_storage": "local",
+    "target_storage": "local",
+    "transfer_method": "scp"
+  }
+} 
