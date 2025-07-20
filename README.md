@@ -363,7 +363,16 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GNU General Public License v3 (GPLv3) - see the [LICENSE](LICENSE) file for details.
+
+### License Summary
+
+- **Copyleft**: Any modifications to this software must also be released under GPLv3
+- **Source Code**: If you distribute this software, you must provide the source code
+- **Commercial Use**: Allowed, but modifications must be shared
+- **Patent Protection**: Includes patent protection clauses
+
+For more information about GPLv3, see the [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 ## Support
 
